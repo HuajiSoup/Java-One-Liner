@@ -9,3 +9,4 @@ So use this! Then only you can understand it! XD
 - A comment in a single line will be removed.
 - @xxx will be removed.
 - Main class name wont be changed, you still need to rename the main class.
+- After few edits, this can easily become a one-liner in other language.
